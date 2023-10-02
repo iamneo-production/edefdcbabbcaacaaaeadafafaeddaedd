@@ -6,6 +6,6 @@
    
    <!-- Assign bean class properties here -->
 	<bean id="helloWord" class="HelloWorld">
-    <property name="helloWorld" vaue="Hello World"/>
+    <property name="helloWorld" value="Hello World"/>
     </bean>
 </beans>
