@@ -7,10 +7,10 @@ import org.springframework.context.annotation.Configuration;
 public class AppConfig {
 
 	//Call Model class here with @Bean annotation
-	/*
+	
     @Bean
     public HelloWorld  helloWorld(){
         return new HelloWorld();
     }
-    */
+    
 }
