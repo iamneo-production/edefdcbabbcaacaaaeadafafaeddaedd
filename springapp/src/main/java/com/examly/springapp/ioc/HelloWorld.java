@@ -1,14 +1,14 @@
 package com.examly.springapp.ioc;
 public class HelloWorld {
-    private String helloWorld;
+    private String message;
 
     public HelloWorld(){}
-    public String getHelloWorld(){
-        return helloWorld;
+    public String getMessage(){
+        return message;
     }
 
-    public void setHelloWorld(String helloWorld){
-        this.helloWorld=helloWorld;
+    public void setMessage(String message){
+        this.message=message;
     }
 
 }
