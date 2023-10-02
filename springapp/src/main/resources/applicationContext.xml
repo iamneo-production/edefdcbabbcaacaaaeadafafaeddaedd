@@ -5,5 +5,7 @@
    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
    
    <!-- Assign bean class properties here -->
-	
+	<bean id="helloWord" class="HelloWorld">
+    <property name="helloWorld" vaue="Hello World"/>
+    </bean>
 </beans>
