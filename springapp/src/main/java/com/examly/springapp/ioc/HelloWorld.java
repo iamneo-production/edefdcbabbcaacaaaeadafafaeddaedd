@@ -1,3 +1,4 @@
+package com.examly.springapp.ioc;
 public class HelloWorld {
     private String helloWorld;
 
